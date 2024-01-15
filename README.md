@@ -1,5 +1,5 @@
 # Repositório Teste
- Primeiro repositório cirado
+ Primeiro repositório criado
 
  mudando para teste
 
