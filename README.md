@@ -24,6 +24,4 @@
  6. Ao utilizar "(n°)." conseguimos obter uma lista numerada. subitens são identificados por "(3 espaços vazios)+(n°)+."
  7. Ao utilizar "*(palavra) ou -(palavra)" consegumios obter uma lista demarcada
  8. Ao utilizar "-" + "[]" + "(palavra)" obtemos uma lista de tarefas (para "concluir" é só preencher a o [] com um x = [x])
- 9. 
-
 
