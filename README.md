@@ -7,15 +7,15 @@
   * E nas "Pull Request"
 
 ## 2- Modificando palavras:
- 1. Ao utlizarmos palavras entre os caracteres `__ __` e `** **` transformamos aas palavra s em negrito
- 2. Ao utilizarmos palavras detre os caracteres `_ _` e `* *` transformamos as palavras em itálico
- 3. Ao utilizarmos palavras detre os caracteres `~~ ~~` passamos um traço na palavra (EX: ~~olá, mundo~~) 
- 4. Para transformar palavras em títulos basta utilizarmos `# "palavra desejada"` (os títulos possuem classificaçãode precedencia)
-    1. `#` - 1° precedencia
-    2. `##` - 2° precedencia
-    3. `###` - 3° precedencia  
- 5. Ao utilizarmos os caracteres `***` ou `---` sepraramos uma área por uma linha cinza 
- 6. Ao utilizar `n°.` conseguimos obter uma lista numerada. subitens são identificados por "(3 espaços vazios)+(n°)+."
+ 1. Ao utlizarmos palavras entre os caracteres `__ __` e `** **` transformamos as palavras em negrito
+ 2. Ao utilizarmos palavras dentre os caracteres `_ _` e `* *` transformamos as palavras em itálico
+ 3. Ao utilizarmos palavras dentre os caracteres `~~ ~~` passamos um traço na palavra (EX: ~~olá, mundo~~) 
+ 4. Para transformar palavras em títulos basta utilizarmos `# "palavra desejada"` (os títulos possuem classificação de precedência)
+    1. `#` - 1° precedência
+    2. `##` - 2° precedência
+    3. `###` - 3° precedência  
+ 5. Ao utilizarmos os carácteres `***` ou `---` separamos uma área por uma linha cinza 
+ 6. Ao utilizar `(número).` conseguimos obter uma lista numerada. subitens são identificados por "`   (número).`"
  7. Ao utilizar `*"palavra"` ou `-"palavra"` consegumios obter uma lista demarcada
  8. Ao utilizar `-[](palavra)` obtemos uma lista de tarefas (para "concluir" é só preencher a o [] com um x = `[x]`)
  9. Ao utilizar palavras entre os caracteres ` `` ` dizemos que esta palavra é um comando. (somente linha)
