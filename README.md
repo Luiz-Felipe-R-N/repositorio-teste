@@ -17,7 +17,7 @@
  5. Ao utilizarmos os carácteres `***` ou `---` separamos uma área por uma linha cinza 
  6. Ao utilizar `(número).` conseguimos obter uma lista numerada. subitens são identificados por "`   (número).`"
  7. Ao utilizar `*"palavra"` ou `-"palavra"` consegumios obter uma lista demarcada
- 8. Ao utilizar `-[](palavra)` obtemos uma lista de tarefas (para "concluir" é só preencher a o [] com um x = `[x]`)
+ 8. Ao utilizar `-[ ](palavra)` obtemos uma lista de tarefas (para "concluir" é só preencher a o [] com um x = `[x]`)
  9. Ao utilizar palavras entre os caracteres ` `` ` dizemos que esta palavra é um comando. (somente linha)
 10. Ao utilizar palavras entre os caracteres ` ``` ``` ` transformaremos tudo escrito entre elas em comando
 11. Ao utiliza `>` transforma tudo o que estiver escrito após, como se fosse algo que alguem preguntou:
