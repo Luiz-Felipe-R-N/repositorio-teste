@@ -15,7 +15,7 @@
     2. `##` - 2° precedência
     3. `###` - 3° precedência  
  5. Ao utilizarmos os carácteres `***` ou `---` separamos uma área por uma linha cinza 
- 6. Ao utilizar `(número).` conseguimos obter uma lista numerada. subitens são identificados por "`   (número).`"
+ 6. Ao utilizar `(número).` conseguimos obter uma lista numerada. subitens são identificados por "`[Espaço][Espaço][Espaço](número).`"
  7. Ao utilizar `*"palavra"` ou `-"palavra"` consegumios obter uma lista demarcada
  8. Ao utilizar `-[ ](palavra)` obtemos uma lista de tarefas (para "concluir" é só preencher a o [] com um x = `[x]`)
  9. Ao utilizar palavras entre os caracteres ` `` ` dizemos que esta palavra é um comando. (somente linha)
